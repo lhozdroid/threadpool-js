@@ -1,0 +1,19 @@
+{
+  "name": "threadpool-js",
+  "version": "1.0.0",
+  "description": "Lightweight and efficient JavaScript library for managing parallel tasks using Web Workers.",
+  "main": "src/ThreadPool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thread",
+    "pool",
+    "web",
+    "workers",
+    "concurrency",
+    "parallelism"
+  ],
+  "author": "Luis Salas",
+  "license": "MIT"
+}
